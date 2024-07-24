@@ -1,9 +1,9 @@
-# odin-recipies
+# Odin Recipes
 
-Hello this is a short project dwelving into the basics of HTML in this project I will have a short page connected to a variety of different yummy delicous recipes
-I will have demonsted my abilty to use basic HTML to build a simple webpage. 
+Hello! This is a short project delving into the basics of HTML. In this project, I have created a simple webpage that connects to a variety of delicious recipes. Through this project, I demonstrate my ability to use basic HTML to build a functional webpage.
 
-# How to use?
+## How to Use?
 
-Clone repo onto your device and open the index.html file in your web browser 
-Enjoy the recipes :)
+1. Clone the repository onto your device.
+2. Open the `index.html` file in your web browser.
+3. Enjoy the recipes! 😊
